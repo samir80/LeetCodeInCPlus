@@ -1,6 +1,6 @@
 ---
-title: LeetCodeInCplus
-tags: algorithm practice,c++
+title:LeetCodeInCplus
+tags:algorithm practice,c++
 ---
 
 #List
