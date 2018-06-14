@@ -1,5 +1,6 @@
 ---
 title:LeetCodeInCplus
+---
 tags:algorithm practice,c++
 ---
 
