@@ -9,6 +9,7 @@ tags:algorithm practice,c++
 - Climb Stair
 - Minimum Path Sum
 - Merge Sorted Array
+- 一摞烙饼的排序
 
 
 
