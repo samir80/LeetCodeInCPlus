@@ -14,7 +14,7 @@ tags:algorithm practice,c++
 - Linked List Cycle II
 - Find Median from Data Stream
 - Lowest Common Ancestor of a Binary Tree
-
+- Lowest Common Ancestor of a Binary Search Tree
 
 
 
