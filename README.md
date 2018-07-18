@@ -20,6 +20,8 @@ tags:algorithm practice,c++
 - Single Number II
 - Sum Of Two Numbers
 - Largest Sum of subarray
+- Max Profit
+
 #Details
 -Letter Combinations of a Phone Number
 
