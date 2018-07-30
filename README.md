@@ -23,7 +23,8 @@ tags:algorithm practice,c++
 - Max Profit
 - Professional Robber
 - Depth Of Tree
-- Valite Binary Search Tree
+- Validate Binary Search Tree
+- Validate Symmetric Tree
 
 #Details
 -Letter Combinations of a Phone Number
