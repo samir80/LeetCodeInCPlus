@@ -25,6 +25,7 @@ tags:algorithm practice,c++
 - Depth Of Tree
 - Validate Binary Search Tree
 - Validate Symmetric Tree
+- Level Order Travel
 
 #Details
 -Letter Combinations of a Phone Number
