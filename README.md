@@ -26,6 +26,7 @@ tags:algorithm practice,c++
 - Validate Binary Search Tree
 - Validate Symmetric Tree
 - Level Order Travel
+- Build Binary Search Tree With Sorted Array
 
 #Details
 -Letter Combinations of a Phone Number
